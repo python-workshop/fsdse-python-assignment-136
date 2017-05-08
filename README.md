@@ -1,7 +1,7 @@
 # Create a linked list for each level of a binary tree
 
 
-Constraints
+## Constraints ##
 
 * Is this a binary search tree?
    * Yes
